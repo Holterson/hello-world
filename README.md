@@ -1,2 +1,5 @@
 # hello-world
-practice repo
+
+HI
+
+I like to code and read.
